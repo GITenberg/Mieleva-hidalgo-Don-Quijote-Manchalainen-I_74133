@@ -1,0 +1,50 @@
+_repo: Mieleva-hidalgo-Don-Quijote-Manchalainen-I_74133
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hollo, J. A. (Juho Aukusti)
+    alias: Hollo, Juho Aukusti
+    birthdate: 1885
+    deathdate: 1967
+    gutenberg_agent_id: '47352'
+    url: http://www.gutenberg.org/2009/agents/47352
+    wikipedia: https://fi.wikipedia.org/wiki/J._A._Hollo
+creator:
+  author:
+    agent_name: Cervantes Saavedra, Miguel de
+    aliases:
+    - Cervantes, Miguel de
+    - Saavedra, Miguel de Cervantes
+    - De Cervantes Saavedra, Miguel
+    - Cervantes, Michel
+    - Saavedra, Miguel Cervantes
+    birthdate: 1547
+    deathdate: 1616
+    gutenberg_agent_id: '505'
+    url: http://www.gutenberg.org/2009/agents/505
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
+    - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
+description: ''
+gutenberg_issued: '2024-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74133'
+language: fi
+pgterms:marc905: 20240703062300cervantes
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Social life and customs -- 16th century -- Fiction'
+- !lcsh 'Knights and knighthood -- Spain -- Fiction'
+- !lcsh 'Picaresque literature'
+- !lcsh 'Romances'
+- !lcc 'PQ'
+- GITenberg
+title: Mielevä hidalgo Don Quijote Manchalainen I
+url: http://www.gutenberg.org/ebooks/74133
